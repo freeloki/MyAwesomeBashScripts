@@ -3,12 +3,12 @@
 Copy&Paste your desired script.
 Don't forget to give executable permission:
 
-** $sudo chmod +x my-awesome-script.sh **
+__$sudo chmod +x my-awesome-script.sh **__
 
 #### (Optional) ####
 Make it symbolic for future uses.
 
-** sudo ln -sf full/path/to/my-awesome-script.sh /usr/local/bin/my-awesome-script**
+__$sudo ln -sf full/path/to/my-awesome-script.sh /usr/local/bin/my-awesome-script__
 
 
 ### Script List ###
