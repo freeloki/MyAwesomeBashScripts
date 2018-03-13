@@ -16,3 +16,7 @@ __$sudo ln -sf full/path/to/my-awesome-script.sh /usr/local/bin/my-awesome-scrip
 #### 1.Update-PC ####
 
 It's could be the simplest script ever made. Updates your system and removes unnecessary files.
+
+#### 2. Set-Touchpad ####
+
+Some laptops don't have any keyboard shortcut for touchpad shutdown. This script helps to on/off it.
