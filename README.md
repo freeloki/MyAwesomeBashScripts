@@ -3,7 +3,7 @@
 Copy&Paste your desired script.
 Don't forget to give executable permission:
 
-__$sudo chmod +x my-awesome-script.sh **__
+__$sudo chmod +x my-awesome-script.sh__
 
 #### (Optional) ####
 Make it symbolic for future uses.
